@@ -3,7 +3,7 @@
     "description": "Hello world!",
     "version": "1.0.0",
     "author": "Kubeshop",
-    "repository": "https://github.com/kubeshop/monokle-default-templates-plugin",
+    "repository": "https://github.com/talkshrey/monokle-plugin/tree/main",
     "monoklePlugin": {
         "modules": []
     }
