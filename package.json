@@ -1,0 +1,11 @@
+{
+    "name": "Monokle plugin",
+    "description": "Custom template plugin",
+    "version": "1.0.0",
+    "author": "talkshrey",
+    "repository": "https://github.com/kubeshop/monokle-default-templates-plugin",
+    "monoklePlugin": {
+      "modules": []
+    }
+  }
+  
