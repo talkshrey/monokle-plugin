@@ -1,10 +1,15 @@
 {
-    "name": "My first plugin",
+    "name": "Templates plugin",
     "description": "Hello world!",
     "version": "1.0.0",
     "author": "Kubeshop",
-    "repository": "https://github.com/talkshrey/monokle-plugin/tree/main",
+    "repository": "https://github.com/talkshrey/monokle-plugin",
     "monoklePlugin": {
-        "modules": []
+        "id": "templates-plugin",
+        "helpUrl": "https://github.com/talkshrey/monokle-plugin",
+        "modules": [{
+            "type": "template",
+            "path": "monokle-templates"
+        }]
     }
 }
