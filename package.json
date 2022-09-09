@@ -3,9 +3,14 @@
     "description": "Custom template plugin",
     "version": "1.0.0",
     "author": "talkshrey",
-    "repository": "https://github.com/kubeshop/monokle-default-templates-plugin",
+    "repository": "https://github.com/talkshrey/monokle-plugin",
     "monoklePlugin": {
-      "modules": []
+      "modules": [
+        {
+            "type": "template",
+            "path": "templates"
+        }
+      ]
     }
   }
   
