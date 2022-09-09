@@ -1,16 +1,15 @@
 {
     "name": "Templates plugin",
-    "description": "Custom template plugin",
+    "description": "Hello world!",
     "version": "1.0.0",
-    "author": "talkshrey",
-    "repository": "https://github.com/kubeshop/monokle-default-templates-plugin",
+    "author": "Kubeshop",
+    "repository": "https://github.com/talkshrey/monokle-plugin",
     "monoklePlugin": {
-      "modules": [
-        {
+        "id": "templates-plugin",
+        "helpUrl": "https://github.com/talkshrey/monokle-plugin",
+        "modules": [{
             "type": "template",
-            "path": "templates"
-        }
-      ]
+            "path": "monokle-templates"
+        }]
     }
-  }
-  
+}
